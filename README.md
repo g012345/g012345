@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=F74E9F&center=true&vCenter=true&multiline=true&random=true&width=435&lines=hi_word(%22console.log%22)+;price+this+300k%24+on+nano+sec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=hi_word('Console%2CLog%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=620&lines=price+300%2C000%24(nano+sec)+for+this)](https://git.io/typing-svg)
 
 # Hi, I'm g0 👋
 
