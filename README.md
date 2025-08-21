@@ -50,8 +50,6 @@ I build fast web applications, love TypeScript/React/Next.js, develop backends w
 
 ---
 
-<p align="center">
   <sub>Always open to new ideas and collaborations. Feel free to reach out</sub>
-</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=7&duration=5001&pause=1000&color=11F707&multiline=true&random=true&width=443&lines=hi_word('Console%2CLog%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=7&duration=5001&pause=1000&color=11F707&multiline=true&random=true&width=443&lines=hi_word(%27Console%2CLog%22%7D))](https://git.io/typing-svg)
