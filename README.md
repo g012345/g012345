@@ -47,6 +47,8 @@ I build fast web applications, love TypeScript/React/Next.js, develop backends w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g012345&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=g012345&color=blue)
+
 
 ---
 
