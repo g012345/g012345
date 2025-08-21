@@ -1,11 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=false&vCenter=false&multiline=true&random=true&width=600&lines=hi_word(%27Console%2CLog%22%7D))](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&multiline=true&random=true&width=443&lines=Hi%2C+I'm+g0+%F0%9F%91%8B)](https://git.io/typing-svg)
 <div>
-
-
-
-# Hi, I'm g0 👋
 
 I build fast web applications, love TypeScript/React/Next.js, develop backends with Python/FastAPI, and wrap everything with Docker.
 
@@ -25,7 +19,7 @@ I build fast web applications, love TypeScript/React/Next.js, develop backends w
 ##  Tech Stack
 
 <p>
-  <b>Main:</b>
+  <b>Main:</b><br>
   TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28"/><br>
   React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28"/><br>
   Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28"/><br>
@@ -59,3 +53,5 @@ I build fast web applications, love TypeScript/React/Next.js, develop backends w
 <p align="center">
   <sub>Always open to new ideas and collaborations. Feel free to reach out</sub>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=false&vCenter=false&multiline=true&random=true&width=600&lines=hi_word(%27Console%2CLog%22%7D))](https://git.io/typing-svg)
