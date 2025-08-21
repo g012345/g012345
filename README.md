@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?weight=700&size=30&duration=5001&color=11F707&center=true&vCenter=true&multiline=true&random=true&width=672&height=121&lines=hi_word(%27Console%2CLog%22%7D;Price+300%2C000%24(nano+sec)+for+this)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=true&vCenter=true&multiline=true&random=true&width=672&lines=hi_word('Console%2CLog%22%7D)](https://git.io/typing-svg)
 
 
 # Hi, I'm g0 👋
