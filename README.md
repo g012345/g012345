@@ -1,26 +1,64 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=F74E9F&center=true&vCenter=true&multiline=true&random=true&width=435&lines=hi_word(%22console.log%22)+;price+this+300k%24+on+nano+sec)](https://git.io/typing-svg)
-<br>
-<p>
-    Roud to Japan big tech 
-</p>
-<br>
-### My stack
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=30\&pause=900\&color=8BE9FD\&center=true\&vCenter=true\&random=true\&width=700\&lines=hi_word\(%22console.log%22\)%3B;price+this+300k%24+on+nano+sec;Hello+World!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+# Hi, I'm g0 👋
+
+I build fast web applications, love TypeScript/React/Next.js, develop backends with Python/FastAPI, and wrap everything with Docker.
+
+---
 
 </div>
-<br>
 
-<br><br>
+<p align="center">
+  <a href="#-goals">🎯 Goals</a> •
+  <a href="#-tech-stack">🧰 Tech Stack</a> •
+  <a href="#-stats">📊 Stats</a>
+</p>
+
+## 🎯 Goals
+
+* 🇯🇵 Work in Big Tech Japan
+* 🧭 Become a development leader
+* 🌍 Create a popular website that influences the world (like TikTok)
+* 🏋️ Deadlift 500+ kg and become a Gymshark Ambassador 😄
+
+---
+
+##  Tech Stack
+
+<p>
+  <b>Main:</b>
+  TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28"/>,
+  React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28"/>,
+  Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28"/>,
+  Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28"/>,
+  FastAPI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="28"/>,
+  Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28"/>,
+  MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="28"/>,
+  Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28"/>
+</p>
+
+<details>
+  <summary><b>Tools & Practices</b></summary>
+
+* Vite / Turborepo / pnpm
+* ESLint, Prettier, Husky + lint‑staged
+* REST + OpenAPI, WebSockets, MF
+* CI/CD: GitHub Actions, Docker Compose
+* Tests: Vitest / Jest, Pytest
+
+</details>
+
+---
+
+##  Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g012345&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+<p align="center">
+  <sub>Always open to new ideas and collaborations. Feel free to reach out</sub>
+</p>
