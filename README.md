@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=5001&pause=1000&color=11F707&center=true&vCenter=true&multiline=true&random=true&width=600&lines=hi_word(%27Console%2CLog%22%7D))](https://git.io/typing-svg)
 
+
 <div>
 
 
