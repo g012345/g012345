@@ -1,6 +1,5 @@
-<p align="center" dir="auto">
-    <img src="./src/snake.svg" style="max-width: 100%;">
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=F74E9F&center=true&vCenter=true&multiline=true&random=true&width=435&lines=hi_word(%22console.log%22)+;price+this+300k%24+on+nano+sec)](https://git.io/typing-svg)
 <br>
 <p>
     Roud to Japan big tech 
@@ -20,8 +19,8 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g012345&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&color=F74E9F&center=true&vCenter=true&multiline=true&random=true&width=435&lines=hi_word(%22console.log%22)+;price+this+300k%24+on+nano+sec)](https://git.io/typing-svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g012345&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
