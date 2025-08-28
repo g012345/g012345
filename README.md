@@ -49,7 +49,7 @@ I build fast web applications, love TypeScript/React/Next.js, develop backends w
 
 ![Profile views](https://komarev.com/ghpvc/?username=g012345&color=blue)
 
-
+[![wakatime](https://wakatime.com/badge/user/c5a2c5c5-adc8-4052-bd90-68d9c07a6fdd.svg)](https://wakatime.com/@c5a2c5c5-adc8-4052-bd90-68d9c07a6fdd)
 ---
 
   <sub>Always open to new ideas and collaborations. Feel free to reach out</sub>
